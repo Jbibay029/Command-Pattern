@@ -12,3 +12,5 @@ Design a system that allows you to control multiple smart home devices with ease
 * Devices can be controlled without the central hub or app needing to understand the internal workings of each device. It should send high-level commands without needing low-level details.
 
 * Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
+
+![image](https://github.com/Jbibay029/Command-Pattern/assets/115449790/bf822f73-d1e5-45ac-bac8-2da46808eb88)
